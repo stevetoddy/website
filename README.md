@@ -6,3 +6,5 @@ After finishing *Learn Enough Git to be Dangerous*, you'll know enough Git to be
 
 For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
+
+New line for test.
